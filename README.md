@@ -1,2 +1,2 @@
 # AI-Fitness-Coach
-This is a Ai based app in which we can count the corect biceps cul .This can count the correct reps from both side as well as side view 
+This is a AI based Fitness Coach  Model in which you can count the correct biceps curl .This can count the correct reps using MediaPipe library which give you fast as well as good accuracy .Correct Reps is being stored  in the firebase so that the performance of 14 days can be detected based on the avg performance of 1st and 2nd week  . This will also provide you the diet chart based on your performance.
